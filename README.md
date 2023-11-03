@@ -1,4 +1,5 @@
-# SimOS
+# SimOS - Operating System Simulator
+This consists of CPU Scheduling and its implementation in the SimOS along with the explanation of the updates made in process.c. Also covers the understanding of demand paging and loader and its implementation in paging.c and loader.c.
 
 CONTENTS OF THIS FILE
 ---------------------
